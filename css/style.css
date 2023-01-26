@@ -4,14 +4,12 @@ body {
 	font-size: 20px;
 	line-height: 1.6;
 	color: black;
-
 }
 
 *,
 *:before,
 *:after {
 	box-sizing: border-box;
-
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -29,11 +27,7 @@ h1, h2, h3, h4, h5, h6 {
 	z-index: 1000;
 }
 
-/* .header_inner {
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-} */
+
 
 .header_logo {
 	text-align: center;
@@ -46,7 +40,7 @@ h1, h2, h3, h4, h5, h6 {
 	text-transform: uppercase;
 	text-align: center;
 	margin: 15px;
-	/* word-spacing: 2.3em; */
+
 }
 
 .nav_link {
@@ -138,7 +132,7 @@ max-width: 960px; /*максимальнная длинна*/
 #switch3:checked ~ #controls label:nth-child(2),
 #switch4:checked ~ #controls label:nth-child(3),
 #switch5:checked ~ #controls label:nth-child(4){
-background: url('/img/prev.png') no-repeat; /*заливка фона картинкой без повторений*/
+background: url('../img/prev.png') no-repeat; /*заливка фона картинкой без повторений*/
 float: left;
 margin: 0 0 0 -84px; /*сдвиг влево*/
 display: block;
@@ -152,7 +146,7 @@ width: 68px;
 #switch3:checked ~ #controls label:nth-child(4),
 #switch4:checked ~ #controls label:nth-child(5),
 #switch5:checked ~ #controls label:nth-child(1){
-background: url('/img/next.png') no-repeat; /*заливка фона картинкой без повторений*/
+background: url('../img/next.png') no-repeat; /*заливка фона картинкой без повторений*/
 float: right;
 margin: 0 -84px 0 0; /*сдвиг вправо*/
 display: block;
