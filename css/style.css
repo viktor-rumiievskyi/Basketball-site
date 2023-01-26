@@ -90,6 +90,13 @@ h1, h2, h3, h4, h5, h6 {
 	color: #fff;
 } */
 
+.slides_text {
+	text-align: center;
+	margin: 0 -50px -100px;
+	background-color: #76c8ff;
+	color: #e66465;
+}
+
 #slider { /*положение слайдера*/
 	position: relative;
 	text-align: center;
