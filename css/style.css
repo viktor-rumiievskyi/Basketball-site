@@ -3,7 +3,7 @@ body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 20px;
 	line-height: 1.6;
-	color: black;
+	background-color: #a7a7a9;
 }
 
 *,
@@ -15,6 +15,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
 	margin: 0;
 }
+
 
 /* Header */
 .header {
@@ -368,6 +369,8 @@ transition: opacity 0.2s ease-out;
 	margin-left: calc(50% - 165px);
 }
 /* News */
+
+
 
 
 
