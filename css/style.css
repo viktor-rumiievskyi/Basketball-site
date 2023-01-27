@@ -317,9 +317,16 @@ transition: opacity 0.2s ease-out;
 	display: flex;
 	justify-content: center;
 } */
+
+.section_news_text{
+	text-align: center;
+	font-size: 30px;
+	font-weight: 700;
+}
+
 .article_short {
 	margin-top: 30px;
-	margin-left: 30%;
+	margin-left: 425px;
 	width: 45%;
 	background-color: #00FF5B;
 	position: relative;

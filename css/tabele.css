@@ -56,21 +56,36 @@
 }
 /* Header */
 
-.history {
+.section_button {
+	padding: 200px;
+}
+
+a.button {
+  display: inline-block;
+  background: #2196f3;
+  color: #fff;
+  padding: 12px;
+  border-radius: 3px;
+  text-decoration: none;
+  font-family: Tahoma;
+  font-size: 18px;
+  line-height: 1;
+  font-weight: 100;
+}
+
+table {
+	width: 100%;
+	background-color: aliceblue;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th, td {
+  border-style: dotted;
+}
+
+td {
 	text-align: center;
-	margin: 200px;
-}
-
-.video {
-	text-align: center;
-}
-
-.historia_text {
-	font-size: 30px;
-	font-weight: 800;
-}
-
-.historia_text1 {
-	font-size: 19px;
-	font-weight: 500;
 }
