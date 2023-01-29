@@ -71,7 +71,8 @@ body {
 	font-size: 25px;
 }
 
-.block1 {
+.block1, .block2, .block3, .block4, .block5, .block6, .block7 {
+	background-color: burlywood;
 	border: 2px black solid;
 	border-radius: 10px;
 	padding: 10px;
@@ -80,59 +81,6 @@ body {
 	display: inline-block;
 }
 
-.block2 {
-	border: 2px black solid;
-	border-radius: 10px;
-	padding: 10px;
-	max-width: 350px;
-	margin: 15px;
-	display: inline-block;
-}
-
-.block3 {
-	border: 2px black solid;
-	border-radius: 10px;
-	padding: 10px;
-	max-width: 350px;
-	margin: 15px;
-	display: inline-block;
-}
-
-.block4 {
-	border: 2px black solid;
-	border-radius: 10px;
-	padding: 10px;
-	max-width: 350px;
-	margin: 15px;
-	display: inline-block;
-}
-
-.block5 {
-	border: 2px black solid;
-	border-radius: 10px;
-	padding: 10px;
-	max-width: 350px;
-	margin: 15px;
-	display: inline-block;
-}
-
-.block6 {
-	border: 2px black solid;
-	border-radius: 10px;
-	padding: 10px;
-	max-width: 350px;
-	margin: 15px;
-	display: inline-block;
-}
-
-.block7 {
-	border: 2px black solid;
-	border-radius: 10px;
-	padding: 10px;
-	max-width: 350px;
-	margin: 15px;
-	display: inline-block;
-}
 
 
 .popup {
